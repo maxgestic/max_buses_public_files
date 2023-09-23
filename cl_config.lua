@@ -1,0 +1,1 @@
+Config.MapUpdateInterval = 1
